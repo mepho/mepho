@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mete
+- 📍 NYC
+- 👨🏻‍💻 Lead UX @ Peloton
+- 📫 metepolat.a@gmail.com
